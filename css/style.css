@@ -1,0 +1,31 @@
+html
+{
+    background-color: powderblue;
+}
+
+header h1
+{
+    font-size: 45px;
+    text-align: center;
+    padding: 20px;
+    background-color: deepskyblue;
+    color: powderblue;
+    border-style: dashed;
+    border-color: steelblue;
+    border-width: 5px;
+    letter-spacing: 2px;
+}
+
+.sections 
+{
+    text-align: center;
+    word-spacing: 50px;
+    color: deepskyblue;
+    font-size: 20px;
+}
+
+.whoami h2
+{
+    text-align: right;
+    
+}
